@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useParams } from "react-router-dom";
-import "../styles/Propertydetails.css";
+import "../styles/PropertyDetails.css";
 import { data } from "../data";
 import Card from "../components/Card/Card";
 import { HiOutlineBuildingOffice2 } from "react-icons/hi2";
